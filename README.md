@@ -9,15 +9,15 @@
 | ----------------------- | --------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- 
 | **Recipe Site**         | Command Line Basics, Git Basics, Basic HTML   | [Code](https://github.com/reitenth/my-odin-projects/tree/main/foundations/01-recipe-site)             | [Demo](https://reitenth.github.io/my-odin-projects/foundations/01-recipe-site/)
 | **Landing Page**        | CSS Cascade, CSS Flexbox                      | [Code](https://github.com/reitenth/my-odin-projects/tree/main/foundations/02-landing-page)            | [Demo](https://reitenth.github.io/my-odin-projects/foundations/02-landing-page/)
-| **Rock Paper Scissors** | JS Basics: Types, Functions and Conditionals  | [Code](https://github.com/felixtanhm/game-arcade)                                                     | [Demo]()
-| **Etch-a-Sketch**       | JS Basics: Arrays, Loops and DOM Manipulation | [Code](https://github.com/felixtanhm/my-odin-project/tree/main/foundations/04-etch-a-sketch)          | [Demo]()
-| **Calculator**          | JS Basics: Objects                            | [Code](https://github.com/felixtanhm/my-odin-project/tree/main/foundations/05-calculator-%5BFINAL%5D) | [Demo]()
+| **Rock Paper Scissors** | JS Basics: Types, Functions and Conditionals  | [Code](https://github.com/reitenth/my-odin-projects/tree/main/foundations/03-rock-paper-scissors)     | [Demo](https://reitenth.github.io/my-odin-projects/foundations/03-rock-paper-scissors/)
+| **Etch-a-Sketch**       | JS Basics: Arrays, Loops and DOM Manipulation | [Code](https://github.com/reitenth/my-odin-projects/tree/main/foundations/04-etch-a-sketch)           | [Demo](https://reitenth.github.io/my-odin-projects/foundations/04-etch-a-sketch/)
+| **Calculator**          | JS Basics: Objects                            | [Code](https://github.com/reitenth/my-odin-projects/tree/main/foundations/05-calculator)              | [Demo](https://reitenth.github.io/my-odin-projects/foundations/05-calculator/)
 
 #### **💥 Full Stack JavaScript** 
 
 | Project                      | Topic(s)                              | Repository                                                                                                     | Preview                                                                                        
 | ---------------------------- | ------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- 
-| **Sign-up Form**             | Forms                                 | WIP                                                                                                            | WIP   
+| **Sign-up Form**             | Forms                                 | [Code](https://github.com/reitenth/my-odin-projects/tree/main/full-stack-javascript/01-sign-up-form)           | [Demo](https://reitenth.github.io/my-odin-projects/full-stack-javascript/01-sign-up-form/)   
 | **Admin Dashboard**          | CSS Grid                              | WIP                                                                                                            | WIP
 | **Library**                  | Objects and Object constructors, OOP  | WIP                                                                                                            | WIP
 | **Tic Tac Toe**              | Factory functions and module patterns | WIP                                                                                                            | WIP
