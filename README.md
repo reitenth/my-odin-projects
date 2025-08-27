@@ -1,4 +1,5 @@
-<p align="center"><img src="./public/top-header-h.png" alt="felixtanhm-portfolio-the-odin-project" width="280"/></p>
+<img width="1688" height="469" alt="header" src="https://github.com/user-attachments/assets/bfa13473-b1c0-41ad-85bb-c9cb205e6260" />
+
 
 [**The Odin Project**](https://www.theodinproject.com/) (**TOP**) provides a free open source web development curriculum that has received [raving reviews](https://www.reddit.com/r/learnprogramming/comments/u6rrz9/why_is_everyone_recommending_the_odin_project/?sort=top). This repository serves as a compilation for all the projects that were completed as part of the curriculum.
 
