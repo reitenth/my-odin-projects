@@ -7,7 +7,7 @@
 
 | Project                 | Topic(s)                                      | Repository                                                                                            | Preview                                                            
 | ----------------------- | --------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- 
-| **Recipe Site**         | Command Line Basics, Git Basics, Basic HTML   | [Code](https://github.com/reitenth/my-odin-projects/tree/main/foundations/01-recipe-site)             | [Demo](https://github.com/reitenth/my-odin-projects/tree/main/foundations/01-recipe-site)
+| **Recipe Site**         | Command Line Basics, Git Basics, Basic HTML   | [Code](https://github.com/reitenth/my-odin-projects/tree/main/foundations/01-recipe-site)             | [Demo](https://reitenth.github.io/my-odin-projects/foundations/01-recipe-site/)
 | **Landing Page**        | CSS Cascade, CSS Flexbox                      | [Code](https://github.com/felixtanhm/my-odin-project/tree/main/foundations/02-landing-page)           | [Demo]()
 | **Rock Paper Scissors** | JS Basics: Types, Functions and Conditionals  | [Code](https://github.com/felixtanhm/game-arcade)                                                     | [Demo]()
 | **Etch-a-Sketch**       | JS Basics: Arrays, Loops and DOM Manipulation | [Code](https://github.com/felixtanhm/my-odin-project/tree/main/foundations/04-etch-a-sketch)          | [Demo]()
