@@ -42,42 +42,4 @@
 | **Blog API**                 | APIs, JWTs                            | WIP                                                                                                            | WIP
 | **Messaging App**            | Full-stack                            | WIP                                                                                                            | WIP                                   
 | **Odin-Book**                | Final project                         | WIP                                                                                                            | WIP                                                                                             
-<details>
-<summary>Individual Project README Template</summary>
 
-# Individual Project README Template 🗂️
-
-Short description of the project, including the topics covered.
-
-![GIF Recording of Project Demo](basic-info-site.gif)
-
-[**Live Demo**](#) ✨ |
-[**Project Specs**](#) 📝
-
-## 🪃 Features
-
-- Feature1
-- Feature2
-- Feature3
-
-#### 🧭 Future Implementations
-
-- Feature1
-- Feature2
-- Feature3
-
-## 💻 Built With
-
-- Tech1
-- Tech2
-- Tech3
-
-## 🚨 Usage (if applicable)
-
-```bash
-cd my-odin-projects/subfolder
-npm i
-npm run dev
-```
-
-</details>
