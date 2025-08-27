@@ -18,35 +18,29 @@
 | Project                      | Topic(s)                              | Repository                                                                                                     | Preview                                                                                        
 | ---------------------------- | ------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- 
 | **Sign-up Form**             | Forms                                 | WIP                                                                                                            | WIP   
-
 | **Admin Dashboard**          | CSS Grid                              | WIP                                                                                                            | WIP
-
 | **Library**                  | Objects and Object constructors, OOP  | WIP                                                                                                            | WIP
-
 | **Tic Tac Toe**              | Factory functions and module patterns | WIP                                                                                                            | WIP
-
-| **Restaurant Page**          | ES6 modules, Webpack                  | WIP                                                                                                            | WIP                                                                                             
-| **Todo List**                | SOLID principles                      | WIP                                                                                                            | WIP                                                                                             
-| **Weather App**              | Asynchronous JavaScript and APIs      | WIP                                                                                                            | WIP                                                                                             
-| **Recursion**                | Recursion                             | WIP                                                                                                            | WIP                                                                                               
-| **Linked Lists**             | Data structures and algorithms        | WIP                                                                                                            | WIP                                                                                               
-| **HashMap**                  | Data structures and algorithms        | WIP                                                                                                            | WIP                                                                                               
-| **Binary Search Trees**      | Data structures and algorithms        | WIP                                                                                                            | WIP                                                                                              
-| **Knights Travails**         | Data structures and algorithms        | WIP                                                                                                            | WIP                                                                                              
-| **Testing Practice**         | Test Driven Development               | WIP                                                                                                            | WIP                                                                                               
-| **Battleship**               | Test Driven Development               | WIP                                                                                                            | WIP                                                                                             
-| **CV Application**           | React                                 | WIP                                                                                                            | WIP                                                                                             
-| **Memory Card**              | React Hooks                           | WIP                                                                                                            | WIP                                                                                             
-| **Shopping Cart**            | React Router, UI testing              | WIP                                                                                                            | WIP                                                                                             
+| **Restaurant Page**          | ES6 modules, Webpack                  | WIP                                                                                                            | WIP                                    
+| **Todo List**                | SOLID principles                      | WIP                                                                                                            | WIP                               
+| **Weather App**              | Asynchronous JavaScript and APIs      | WIP                                                                                                            | WIP                            
+| **Recursion**                | Recursion                             | WIP                                                                                                            | WIP
+| **Linked Lists**             | Data structures and algorithms        | WIP                                                                                                            | WIP
+| **HashMap**                  | Data structures and algorithms        | WIP                                                                                                            | WIP
+| **Binary Search Trees**      | Data structures and algorithms        | WIP                                                                                                            | WIP
+| **Knights Travails**         | Data structures and algorithms        | WIP                                                                                                            | WIP
+| **Testing Practice**         | Test Driven Development               | WIP                                                                                                            | WIP
+| **Battleship**               | Test Driven Development               | WIP                                                                                                            | WIP
+| **CV Application**           | React                                 | WIP                                                                                                            | WIP
+| **Memory Card**              | React Hooks                           | WIP                                                                                                            | WIP
+| **Shopping Cart**            | React Router, UI testing              | WIP                                                                                                            | WIP
 | **Basic Informational Site** | Basic Node.js, Express                | WIP                                                                                                            | WIP
-
 | **Mini Message Board**       | Basic Express, EJS, MVC               | WIP                                                                                                            | WIP
-
-| **Forms and Deployment**     | Express, Mongoose, EJS, Form-handling | WIP                                                                                                            | WIP                                                                                             
-| **Inventory Application**    | Express, Mongoose                     | WIP                                                                                                            | WIP                                                                                             
-| **Members Only**             | Authentication, sessions, cookies     | WIP                                                                                                            | WIP                                                                                             
-| **Blog API**                 | APIs, JWTs                            | WIP                                                                                                            | WIP                                                                                             
-| **Messaging App**            | Full-stack                            | WIP                                                                                                            | WIP                                                                                             
+| **Forms and Deployment**     | Express, Mongoose, EJS, Form-handling | WIP                                                                                                            | WIP 
+| **Inventory Application**    | Express, Mongoose                     | WIP                                                                                                            | WIP
+| **Members Only**             | Authentication, sessions, cookies     | WIP                                                                                                            | WIP
+| **Blog API**                 | APIs, JWTs                            | WIP                                                                                                            | WIP
+| **Messaging App**            | Full-stack                            | WIP                                                                                                            | WIP                                   
 | **Odin-Book**                | Final project                         | WIP                                                                                                            | WIP                                                                                             
 <details>
 <summary>Individual Project README Template</summary>
