@@ -3,8 +3,6 @@
 
 [**The Odin Project**](https://www.theodinproject.com/) (**TOP**) provides a free open source web development curriculum that has received [raving reviews](https://www.reddit.com/r/learnprogramming/comments/u6rrz9/why_is_everyone_recommending_the_odin_project/?sort=top). This repository serves as a compilation for all the projects that were completed as part of the curriculum.
 
----
-
 #### **🧸 Foundations**
 
 | Project                 | Topic(s)                                      | Repository                                                                                            | Preview                                                            
@@ -14,8 +12,6 @@
 | **Rock Paper Scissors** | JS Basics: Types, Functions and Conditionals  | [Code](https://github.com/felixtanhm/game-arcade)                                                     | [Demo](https://game-arcade.pages.dev/)
 | **Etch-a-Sketch**       | JS Basics: Arrays, Loops and DOM Manipulation | [Code](https://github.com/felixtanhm/my-odin-project/tree/main/foundations/04-etch-a-sketch)          | [Demo](https://felixtanhm.github.io/my-odin-projects/foundations/04-etch-a-sketch)
 | **Calculator**          | JS Basics: Objects                            | [Code](https://github.com/felixtanhm/my-odin-project/tree/main/foundations/05-calculator-%5BFINAL%5D) | [Demo](https://felixtanhm.github.io/my-odin-projects/foundations/05-calculator-%5BFINAL%5D)
-
----
 
 #### **💥 Full Stack JavaScript** 
 
@@ -46,9 +42,6 @@
 | **Blog API**                 | APIs, JWTs                            | WIP                                                                                                            | WIP                                                                                             
 | **Messaging App**            | Full-stack                            | WIP                                                                                                            | WIP                                                                                             
 | **Odin-Book**                | Final project                         | WIP                                                                                                            | WIP                                                                                             
-
----
-
 <details>
 <summary>Individual Project README Template</summary>
 
