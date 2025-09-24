@@ -1,7 +1,4 @@
-<img width="1000" height="277" alt="header" src="https://github.com/user-attachments/assets/bfa13473-b1c0-41ad-85bb-c9cb205e6260" />
-
-
-[**The Odin Project**](https://www.theodinproject.com/) (**TOP**) provides a free open source web development curriculum. This repository serves as a compilation for all the projects that were completed as part of the curriculum.
+<p align="center"><img width="400" height="111" alt="header" src="https://github.com/user-attachments/assets/bfa13473-b1c0-41ad-85bb-c9cb205e6260" /></p>
 
 <div align="center">
   
