@@ -1,8 +1,10 @@
-<img width="1688" height="469" alt="header" src="https://github.com/user-attachments/assets/bfa13473-b1c0-41ad-85bb-c9cb205e6260" />
+<img width="1000" height="277" alt="header" src="https://github.com/user-attachments/assets/bfa13473-b1c0-41ad-85bb-c9cb205e6260" />
 
 
 [**The Odin Project**](https://www.theodinproject.com/) (**TOP**) provides a free open source web development curriculum. This repository serves as a compilation for all the projects that were completed as part of the curriculum.
 
+<div align="center">
+  
 #### **🧸 Foundations**
 
 | Project                 | Topic(s)                                      | Repository                                                                                            | Preview                                                            
@@ -12,6 +14,8 @@
 | **Rock Paper Scissors** | JS Basics: Types, Functions and Conditionals  | [Code](https://github.com/reitenth/my-odin-projects/tree/main/foundations/03-rock-paper-scissors)     | [Demo](https://reitenth.github.io/my-odin-projects/foundations/03-rock-paper-scissors/)
 | **Etch-a-Sketch**       | JS Basics: Arrays, Loops and DOM Manipulation | [Code](https://github.com/reitenth/my-odin-projects/tree/main/foundations/04-etch-a-sketch)           | [Demo](https://reitenth.github.io/my-odin-projects/foundations/04-etch-a-sketch/)
 | **Calculator**          | JS Basics: Objects                            | [Code](https://github.com/reitenth/my-odin-projects/tree/main/foundations/05-calculator)              | [Demo](https://reitenth.github.io/my-odin-projects/foundations/05-calculator/)
+
+</div>
 
 #### **💥 Full Stack JavaScript** 
 
