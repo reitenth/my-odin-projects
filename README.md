@@ -1,4 +1,4 @@
-<p align="center"><img width="400" height="111" alt="header" src="https://github.com/user-attachments/assets/bfa13473-b1c0-41ad-85bb-c9cb205e6260" /></p>
+<p align="center"><img width="400" height="111" alt="header" src="https://github.com/user-attachments/assets/bfa13473-b1c0-41ad-85bb-c9cb205e6260"/></p>
 
 <div align="center">
   
@@ -13,6 +13,8 @@
 | **Calculator**          | JS Basics: Objects                            | [Code](https://github.com/reitenth/my-odin-projects/tree/main/foundations/05-calculator)              | [Demo](https://reitenth.github.io/my-odin-projects/foundations/05-calculator/)
 
 </div>
+
+<div align="center">
 
 #### **💥 Full Stack JavaScript** 
 
@@ -44,3 +46,4 @@
 | **Messaging App**            | Full-stack                            | WIP                                                                                                            | WIP                                   
 | **Odin-Book**                | Final project                         | WIP                                                                                                            | WIP                                                                                             
 
+</div>
